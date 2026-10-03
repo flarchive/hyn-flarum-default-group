@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of hyn/flarum-default-group.** Not for installation: use [Packagist](https://packagist.org/packages/hyn/flarum-default-group) or the [upstream repository](https://github.com/FriendsOfFlarum/default-group).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**8** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-12-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-06-20 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v0.1.1) |
+| `0.2.0` | 2020-11-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v0.2.0) |
+| `0.3.0` | 2020-12-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v0.3.0) |
+| `0.3.1` | 2020-12-17 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v0.3.1) |
+| `0.4.0` | 2021-03-28 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v0.4.0) |
+| `1.0.0` | 2021-05-17 | `^1.0.0` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-11-26 | `^1.0.0` | [Browse](https://github.com/flarchive/hyn-flarum-default-group/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/hyn-flarum-default-group.json](https://github.com/flarchive/archive-index/blob/main/packages/hyn-flarum-default-group.json)
 
